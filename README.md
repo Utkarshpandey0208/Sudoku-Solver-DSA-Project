@@ -12,4 +12,4 @@ javac SudokuSolver.java
 java SudokuSolver
 
 ## Author
-Prince Pal
+Utkarsh pandey
